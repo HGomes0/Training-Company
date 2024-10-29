@@ -1,0 +1,15 @@
+NumeroInterno,Nome,Email,Nif,Contato,Role,Rua,CodigoPostal,Localidade,Distrito,Funcao,DataInicioContrato,DataFimContrato,DataRegistoCriminal,Area Administrativa,Isenção de Horário,Area,Bónus Mensal,Carro da Empresa,Área Formação,Disponibilidade,Valor Hora
+1,Lisa Matins,lisa.martins@adm.pt,236698754,123456789,Funcionario,Rua,4555-003,Porto,Porto,Diretor,2019-12-12,2029-12-12,2029-12-12,N/A,Isençao Parcial,N/A,100.00,Sim,N/A,N/A,N/A
+2,Telma Santos,telma.santos@adm.pt,123456789,910887234,Funcionario,Olimpos; 23,4455-332,Roma,Açores,Administrativo,2019-12-12,2029-12-12,2029-12-12,Administrativa,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3,Filipa Figueiras,filipa.figueiras@adm.pt,916547893,915698326,Funcionario,Rua do muro; 22,5698-365,Porto,Porto,Coordenador,2019-12-12,2029-12-12,2029-12-12,N/A,N/A,N/A,N/A,N/A,Negócios e Gestão,Laboral,45.00
+4,Marcia Lopes,marcia.lopes@adm.pt,924567893,924567893,Funcionario,Rua das Flores,4455-666,Lisboa,Lisboa,Formador,2019-12-12,2029-12-12,2029-12-12,N/A,N/A,N/A,N/A,N/A,Negócios e Gestão,Pós-Laboral,235.00
+6,Vanessa Ferreira,vanessadasilvaferreira@proton.me,251526488,928143434,Funcionario,Travessa Vanessa,4755-035,Alvelos; Barcelos,Braga,Diretor,2019-12-12,2029-12-12,2029-12-12,N/A,Sem Isençao,Geral,10000.00,Sim,N/A,N/A,N/A
+7,Tomas Andrade,tomas.andrade@adm.pt,123456787,987456321,Funcionario,Rua do Isto Nunca Mais Acaba,4255-002,Bue Longe,Madeira,Formador,2019-12-12,2029-12-12,2029-12-12,N/A,N/A,N/A,N/A,N/A,Negócios e Gestão,Ambos,200.00
+8,Bruno Torres,bruno.torres@adm.pt,125863479,128569733,Funcionario,Rua dos Desesperados,4444-698,Help,Viseu,Formador,2019-12-12,2029-12-12,2029-12-12,N/A,N/A,N/A,N/A,N/A,Negócios e Gestão,Ambos,55.00
+9,Tiago Santos,tiago.santos@adm.com,897456987,123698547,Funcionario,Ruja das Dores,4987-333,Dolores,Aveiro,Formador,2019-12-12,2029-12-12,2029-12-12,N/A,N/A,N/A,N/A,N/A,Negócios e Gestão,Ambos,36.00
+10,Afonso Henrriques,afonso.henrriques@adm.pt,296578462,223554887,Funcionario,Rua dos Infantes,4558-999,Alto,Bragança,Formador,2019-12-12,2029-12-12,2029-12-12,N/A,N/A,N/A,N/A,N/A,Negócios e Gestão,Laboral,177.00
+11,Fernando Pessoa,fernando.pessoa@adm.pt,125879634,896547213,Funcionario,Rua dos Picos,4300-900,Freixo,Lisboa,Formador,2019-12-12,2029-12-12,2029-12-12,N/A,N/A,N/A,N/A,N/A,Negócios e Gestão,Ambos,5.00
+12,Filipe Mendes,filipe.mendes@adm.pt,789546321,556987456,Funcionario,Rua dos Padres,4789-999,Leça da Palmeira,Porto,Formador,2019-12-12,2029-12-12,2029-12-12,N/A,N/A,N/A,N/A,N/A,Negócios e Gestão,Ambos,12.50
+13,Marcio Mendes,marcio.mendes@adm.pt,154812687,568974123,Funcionario,Rua dos Ratos,4489-999,Dores,Viana do Castelo,Formador,2019-12-12,2029-12-12,2029-12-12,N/A,N/A,N/A,N/A,N/A,Artes e Design,Ambos,12.30
+17,TesteUm,teste1@adm.pt,121212121,121212121,Funcionario,Rua,1234-123,Localidade,Aveiro,Formador,2024-08-22,2024-08-31,2024-08-30,N/A,N/A,N/A,N/A,N/A,Geral,Laboral,20.00
+18,TesteDois,teste2@adm.pt,212121212,212121212,Funcionario,Rua,1234-432,Localidade,Aveiro,Coordenador,2024-07-05,2024-10-18,2024-09-25,N/A,N/A,N/A,N/A,N/A,Geral,Laboral,28.00
